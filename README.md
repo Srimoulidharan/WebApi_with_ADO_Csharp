@@ -14,15 +14,15 @@ MySQL Database Integration
 
 # 📁 Project Structure
 
-WebApi_with_ADO_Csharp/
-├── Controllers/
-│ └── StudentController.cs
-├── Models/
-│ └── Student.cs
-├── appsettings.json
-├── Program.cs
-├── WebApi_with_ADO_Csharp.csproj
-└── README.md
+-WebApi_with_ADO_Csharp/
+-Controllers/
+-StudentController.cs
+-Models/
+-Student.cs
+-appsettings.json
+-Program.cs
+-WebApi_with_ADO_Csharp.csproj
+-README.md
 
 ## 🛠️ Technologies
 
